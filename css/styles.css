@@ -1,0 +1,111 @@
+.content {
+  font-family: Roboto, sans-serif;
+  color: #2e2f42;
+}
+.web {
+  color: var(--iris, #4d5ae5);
+  font-family: Raleway;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 1, 17;
+  letter-spacing: 0.54px;
+  text-transform: uppercase;
+}
+.main-link {
+  color: var(--navyblue, #2e2f42);
+  font-family: Raleway;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 1, 17;
+  letter-spacing: 0.54px;
+  text-transform: uppercase;
+}
+.nav-link {
+  font-family: Roboto;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 1, 5;
+  letter-spacing: 0.32px;
+}
+.contacts {
+  color: var(--slate, #434455);
+  font-family: Roboto;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1, 5;
+  letter-spacing: 0.32px;
+}
+.main-title {
+  color: var(--white, #fff);
+  text-align: center;
+  font-family: Roboto;
+  font-size: 56px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 1, 07;
+  letter-spacing: 1.12px;
+}
+.order-button {
+  border-radius: 4px;
+  background: var(--iris, #4d5ae5);
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
+}
+.button-text {
+  color: var(--white, #fff);
+  font-family: Roboto;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 1, 5;
+  letter-spacing: 0.64px;
+}
+.other-title {
+  font-family: Roboto;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 1, 2;
+  letter-spacing: 0.4px;
+}
+.paragraph {
+  color: var(--slate, #434455);
+  font-family: Roboto;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1, 5;
+  letter-spacing: 0.32px;
+}
+.team-title {
+  text-align: center;
+  font-family: Roboto;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 1, 1;
+  letter-spacing: 0.72px;
+  text-transform: capitalize;
+}
+.job {
+  color: var(--slate, #434455);
+  text-align: center;
+  font-family: Roboto;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1, 5;
+  letter-spacing: 0.32px;
+}
+.footer-text {
+  color: var(--cloud, #f4f4fd);
+  font-family: Roboto;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1, 5;
+  letter-spacing: 0.32px;
+}
