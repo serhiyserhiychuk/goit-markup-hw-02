@@ -1,3 +1,9 @@
+a {
+  text-decoration: none;
+}
+ul {
+  list-style: none;
+}
 .content {
   font-family: Roboto, sans-serif;
   color: #434455;
@@ -67,7 +73,7 @@
 .order-button {
   background: var(--iris, #4d5ae5);
   color: var(--white, #fff);
-  font-family: "Roboto", sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 500;
@@ -75,10 +81,11 @@
   letter-spacing: 0.64px;
   cursor: pointer;
 }
-.order-button:hover, .order-button:focus{
-  background-color: #404BBF;
+.order-button:hover,
+.order-button:focus {
+  background-color: #404bbf;
 }
-.title{
+.title {
   color: #2e2f42;
 }
 .other-title {
@@ -99,8 +106,8 @@
   line-height: 1.5;
   letter-spacing: 0.32px;
 }
-.team{
-  background-color: #F4F4FD;
+.team {
+  background-color: #f4f4fd;
 }
 .team-title {
   color: #2e2f42;
@@ -113,8 +120,8 @@
   letter-spacing: 0.72px;
   text-transform: capitalize;
 }
-.list-item{
-  background-color: #FFFFFF;
+.list-item {
+  background-color: #ffffff;
 }
 .job {
   color: var(--slate, #434455);
@@ -126,10 +133,10 @@
   line-height: 1.5;
   letter-spacing: 0.32px;
 }
-.page-footer{
+.page-footer {
   background-color: #2e2f42;
 }
-.web-link{
+.web-link {
   color: #f4f4fd;
 }
 .footer-text {
