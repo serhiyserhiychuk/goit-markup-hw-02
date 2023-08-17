@@ -47,7 +47,8 @@
   letter-spacing: 0.32px;
 }
 .contacts:hover,
-.contacts:active {
+.contacts:active,
+.contacts:focus {
   color: #404bbf;
 }
 .hero {
